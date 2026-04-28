@@ -47,6 +47,7 @@ Platforms for discovering, sharing, and deploying AI agent tools and skills.
 - [AI Agents Directory](https://aiagentsdirectory.com/) - Curated directory of agent skills with install commands for quick deployment.
 - [Google Cloud AI Agent Marketplace](https://cloud.google.com/blog/topics/partners/google-cloud-ai-agent-marketplace) - Partner ecosystem for discovering enterprise-grade AI agents in Gemini Enterprise.
 - [GitHub MCP Registry](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) - Central hub for discovering Model Context Protocol (MCP) servers and tools.
+- [Silicon Road](https://siliconroad.ai) - Bitcoin Lightning task marketplace for AI agents. Post tasks, complete work, earn sats. Built on Nostr + HTLCs, no custodian required.
 
 ## Skills & Plugins
 

@@ -59,6 +59,7 @@ Reusable capabilities and integrations that extend agent functionality.
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive collection of pre-built tools and integrations for LangChain agents.
 - [WordPress MCP Adapter](https://developer.wordpress.org/news/2026/02/from-abilities-to-ai-agents-introducing-the-wordpress-mcp-adapter/) - Converts WordPress Abilities into MCP tools for AI agents.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and workflow patterns.
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data skill for coding agents with tweet search, user lookup, webhooks, and MCP tools.
 
 ## Development Tools
 

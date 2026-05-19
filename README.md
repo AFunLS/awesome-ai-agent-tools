@@ -64,6 +64,7 @@ Reusable capabilities and integrations that extend agent functionality.
 
 Tools for building, testing, and deploying AI agents.
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI for inspecting AI coding agent sessions, costs, tokens, and slow runs.
 - [LangSmith](https://smith.langchain.com/) - Platform for debugging, testing, and monitoring LLM applications and agents.
 - [Langfuse](https://langfuse.com/) - Open-source observability and analytics platform for LLM applications with agent tracking.
 - [n8n](https://n8n.io/) - Workflow automation platform with AI agent integration and visual programming interface.

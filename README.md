@@ -59,6 +59,7 @@ Reusable capabilities and integrations that extend agent functionality.
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive collection of pre-built tools and integrations for LangChain agents.
 - [WordPress MCP Adapter](https://developer.wordpress.org/news/2026/02/from-abilities-to-ai-agents-introducing-the-wordpress-mcp-adapter/) - Converts WordPress Abilities into MCP tools for AI agents.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and workflow patterns.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 payment verification for AI agents on Solana; query via zero-install remote MCP.
 
 ## Development Tools
 

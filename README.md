@@ -70,6 +70,7 @@ Tools for building, testing, and deploying AI agents.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM flows and AI agents.
 - [Spec Kit](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) - Open-source toolkit for spec-driven development with coding agents.
 - [AgentOps](https://www.agentops.ai/) - Observability and monitoring platform specifically designed for AI agents.
+- [ax](https://github.com/Necmttn/ax) - Local agent-experience graph for coding-agent sessions, tools, skills, costs, and workflow recall.
 - [PromptLayer](https://promptlayer.com/) - Platform for tracking, managing, and versioning prompts for agent development.
 
 ## Vector Databases & Memory

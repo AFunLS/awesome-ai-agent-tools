@@ -22,6 +22,7 @@ Foundational libraries and SDKs for building AI agents.
 
 - [LangChain](https://github.com/langchain-ai/langchain) - Comprehensive framework for developing applications powered by language models with extensive integrations and tool support.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs, featuring graph-based agent orchestration.
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Lightweight Python framework for OpenAI-compatible agents with tools, memory, MCP/SSE, Skills, workflows, and multi-agent collaboration.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental open-source application showcasing the capabilities of autonomous GPT-4 agents.
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents for collaborative task execution.
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Framework for building multi-agent conversational systems with support for human-in-the-loop workflows.

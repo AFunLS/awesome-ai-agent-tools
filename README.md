@@ -91,6 +91,7 @@ Frameworks specifically designed for coordinating multiple AI agents.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that simulates software development teams with specialized roles.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Collaborative agents forming a virtual software company with roles like CEO, CTO, and developers.
 - [CAMEL](https://github.com/camel-ai/camel) - Communicative Agents for "Mind" Exploration of Large Language Model Society.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first desktop workspace where a Commander coordinates specialized agents through one conversation.
 
 ## Documentation & Learning
 

@@ -58,6 +58,7 @@ Reusable capabilities and integrations that extend agent functionality.
 - [Microsoft Skills Repository](https://github.com/microsoft/skills) - Skills, MCP servers, and custom agents for Azure SDK and Microsoft AI Foundry integration.
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive collection of pre-built tools and integrations for LangChain agents.
 - [WordPress MCP Adapter](https://developer.wordpress.org/news/2026/02/from-abilities-to-ai-agents-introducing-the-wordpress-mcp-adapter/) - Converts WordPress Abilities into MCP tools for AI agents.
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: https://statsnet.co/mcp
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and workflow patterns.
 
 ## Development Tools

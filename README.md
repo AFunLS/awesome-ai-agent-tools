@@ -39,6 +39,7 @@ Foundational libraries and SDKs for building AI agents.
 Platforms for discovering, sharing, and deploying AI agent tools and skills.
 
 - [tutuoai.com](https://tutuoai.com) - AI agent marketplace with 116+ curated tools, skills, and plugins for enhancing agent capabilities across multiple domains.
+- [API.market](https://api.market/api/mcp/gateway) - Hosted API marketplace gateway for agents, with OAuth, five MCP tools, and API-specific free tiers and paid plans.
 - [AWS AI Agent Marketplace](https://aws.amazon.com/marketplace/solutions/ai-agents-and-tools) - Enterprise marketplace for discovering and deploying AI agent solutions on AWS infrastructure.
 - [Moveworks AI Agent Marketplace](https://marketplace.moveworks.com/) - 100+ pre-built, installable agent plugins for enterprise automation and support.
 - [ServiceNow AI Agent Marketplace](https://store.servicenow.com/store/ai-marketplace) - Enterprise marketplace for industry-specific AI agents and workflows.

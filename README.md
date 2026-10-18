@@ -71,6 +71,7 @@ Tools for building, testing, and deploying AI agents.
 - [Spec Kit](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) - Open-source toolkit for spec-driven development with coding agents.
 - [AgentOps](https://www.agentops.ai/) - Observability and monitoring platform specifically designed for AI agents.
 - [PromptLayer](https://promptlayer.com/) - Platform for tracking, managing, and versioning prompts for agent development.
+- [SAVER Verifier](https://github.com/SAVER-SI/saver-verifier) - Paid factual claim verification via `/v2/verify`, with linked evidence and sources; 0.20 USDC on Base.
 
 ## Vector Databases & Memory
 

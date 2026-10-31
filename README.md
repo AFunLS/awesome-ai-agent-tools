@@ -64,13 +64,15 @@ Reusable capabilities and integrations that extend agent functionality.
 
 Tools for building, testing, and deploying AI agents.
 
-- [LangSmith](https://smith.langchain.com/) - Platform for debugging, testing, and monitoring LLM applications and agents.
-- [Langfuse](https://langfuse.com/) - Open-source observability and analytics platform for LLM applications with agent tracking.
-- [n8n](https://n8n.io/) - Workflow automation platform with AI agent integration and visual programming interface.
-- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM flows and AI agents.
-- [Spec Kit](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) - Open-source toolkit for spec-driven development with coding agents.
 - [AgentOps](https://www.agentops.ai/) - Observability and monitoring platform specifically designed for AI agents.
+- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag-and-drop UI for building customized LLM flows and AI agents.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Open-source security layer for supported coding agents that checks selected tool actions before execution.
+- [Langfuse](https://langfuse.com/) - Open-source observability and analytics platform for LLM applications with agent tracking.
+- [LangSmith](https://smith.langchain.com/) - Platform for debugging, testing, and monitoring LLM applications and agents.
+- [n8n](https://n8n.io/) - Workflow automation platform with AI agent integration and visual programming interface.
 - [PromptLayer](https://promptlayer.com/) - Platform for tracking, managing, and versioning prompts for agent development.
+- [Spec Kit](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) - Open-source toolkit for spec-driven development with coding agents.
+
 
 ## Vector Databases & Memory
 

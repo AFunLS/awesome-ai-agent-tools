@@ -52,13 +52,14 @@ Platforms for discovering, sharing, and deploying AI agent tools and skills.
 
 Reusable capabilities and integrations that extend agent functionality.
 
-- [MCP (Model Context Protocol)](https://www.anthropic.com/news/model-context-protocol) - Open protocol for connecting AI agents to external data sources and tools.
-- [Claude Skills](https://claude.com/blog/skills-explained) - Anthropic's system for teaching expertise that any agent can apply across tasks.
 - [2389 Research Skills](https://skills.2389.ai/) - Open-source Claude Code plugins and MCP servers for development workflows and testing.
-- [Microsoft Skills Repository](https://github.com/microsoft/skills) - Skills, MCP servers, and custom agents for Azure SDK and Microsoft AI Foundry integration.
+- [agent-qa](https://vostride.com) - Web/mobile QA skills and MCP with persistent memidex memory, validated self-improvement and evidence; FSL-1.1-ALv2 restricts competing use; external costs apply.
+- [Claude Skills](https://claude.com/blog/skills-explained) - Anthropic's system for teaching expertise that any agent can apply across tasks.
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive collection of pre-built tools and integrations for LangChain agents.
-- [WordPress MCP Adapter](https://developer.wordpress.org/news/2026/02/from-abilities-to-ai-agents-introducing-the-wordpress-mcp-adapter/) - Converts WordPress Abilities into MCP tools for AI agents.
+- [MCP (Model Context Protocol)](https://www.anthropic.com/news/model-context-protocol) - Open protocol for connecting AI agents to external data sources and tools.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and workflow patterns.
+- [Microsoft Skills Repository](https://github.com/microsoft/skills) - Skills, MCP servers, and custom agents for Azure SDK and Microsoft AI Foundry integration.
+- [WordPress MCP Adapter](https://developer.wordpress.org/news/2026/02/from-abilities-to-ai-agents-introducing-the-wordpress-mcp-adapter/) - Converts WordPress Abilities into MCP tools for AI agents.
 
 ## Development Tools
 
